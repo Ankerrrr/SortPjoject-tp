@@ -357,10 +357,10 @@ Memory Info (After):
 ## 折線圖
 
 > 資料比數 - 花費時間折線圖
-> ![圖表](./Img/a.png)
+> ![圖表](./src/Img/a.png)
 
 > 資料比數 - 花費時間折線圖(放大之後)
-> ![圖表](./Img/b.png)
+> ![圖表](./src/Img/b.png)
 
 > [!NOTE]
 >
